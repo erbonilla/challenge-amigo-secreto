@@ -2,6 +2,7 @@
 
 Challenge Secret Friend 
 
+https://github.com/erbonilla/challenge-amigo-secreto/blob/main/amigo-secreto-img.png?raw=true
 
 In this challenge, I develop an app that allows users to enter friends' names into a list and then run a random draw and determine who the "secret friend" is.
 The user must add names using a text field and an "Add" button. The names entered will be displayed in a visible list on the page, and at the end, a "Draw Friend" button will select one of the names randomly, showing the result on the screen.
